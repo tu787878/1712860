@@ -7,8 +7,13 @@ Input: `/SinhVien.csv`
 Output: `/Profiles`
 
 ## Người thực hiện
-Tên: Nguyễn Lý Phước Trung
+Tên: Nguyễn Văn Tú
 
-MSSV: 1512614
+MSSV: 1712860
 
-"# 1712860" 
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        @Copyright-1712860
+            
