@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -50,14 +50,14 @@
                         <li>MSSV: $id</li>
                         <li>Khoa: $faculty</li>
                         <li>Ngày sinh: $birthday</li>
-	     <li>Niên khóa: $schoolyear</li>
+	     <li>Niên khóa: $truong</li>
                     </ul>
                 </div>
 
                 <div class="InfoGroup">Sở thích</div>
                 <div>
                     <ul class="TextInList">
-                        $hobbies
+                        $sothich
                     </ul>
                 </div>
 
@@ -76,11 +76,11 @@
             <img src="Images/LogoFooter_gray.jpg" width="34"
                  height="41"/><br/>
             <br/>
-            @2016</br>
+            @2018</br>
             Đồ án giữa kỳ</br>
             Kỹ thuật lập trình</br>
-            TH2016/03</br>
-            1512614 - Nguyễn Lý Phước Trung</br>
+            TH2018/04</br>
+            1712860 - Nguyễn Văn Tú</br>
         </div>
     </div>
     <!-- End Layout Footer -->
